@@ -3,7 +3,7 @@ Custom Entry
 
 Custom Entry con bindable properties para indicar:
 
- - El color del borde (para indicar errores).
+ - El color del borde (por ejemplo para indicar errores usando un Behavior).
 
  - El tipo del botón 'Return' del teclado.
 
